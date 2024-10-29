@@ -1,0 +1,336 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: app book cal\n"
+"POT-Creation-Date: 2022-11-26 00:07+0100\n"
+"PO-Revision-Date: 2022-11-29 16:00+0100\n"
+"Last-Translator: Wouter-Jan Kok <wjkok@home.nl>\n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: appointment-booking-calendar\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int.inc.php:431
+msgid "Request address at PayPal"
+msgstr "Verzoek PayPal gegevens"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int.inc.php:433
+msgid "No"
+msgstr "Nee"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int.inc.php:434
+msgid "Yes"
+msgstr "Ja"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:124
+msgid "Calendar List"
+msgstr "Kalenderlijst"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:124
+msgid "Items List"
+msgstr "Ljist met items"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:130
+msgid "ID"
+msgstr "ID"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:130
+msgid "Calendar Name"
+msgstr "Kalender naam"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:130
+msgid "Owner"
+msgstr "Eigenaar"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:130
+msgid "iCal Link"
+msgstr "iCal link"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:130
+msgid "Options"
+msgstr "Opties"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:130
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:161
+msgid "iCal Feed"
+msgstr "iCal bron"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:164
+msgid "Update"
+msgstr "Bijwerken"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:166
+msgid "Manage Settings"
+msgstr "Beheer Instellingen"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:168
+msgid "Publish"
+msgstr "Publiceren"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:170
+msgid "Bookings List"
+msgstr "Lijst van reserveringen"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:171
+msgid "Calendar Schedule"
+msgstr "Kalender schema"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:172
+msgid "Add Booking"
+msgstr "Reservering toevoegen"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:190
+msgid "New Calendar"
+msgstr "Nieuwe kalender"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:190
+msgid "Item"
+msgstr "Item"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:193
+msgid "This version supports one calendar"
+msgstr "Slechts ondersteuning voor één kalender in deze versie"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:193
+msgid "Check the upgrade option"
+msgstr "Controleer de mogelijkheid tot opwaarderen"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:201
+msgid "Form Builder Settings & Troubleshoot Area"
+msgstr "Instellingen van de Formulier Bouwer & Foutenzoeken"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:203
+msgid "Important!"
+msgstr "Belangrijk!"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:203
+msgid ""
+"Use this area <strong>only</strong> if you want to activate the form builder "
+"or if you are experiencing conflicts with third party plugins, with the "
+"theme scripts or with the character encoding."
+msgstr ""
+"Gebruik dit <strong>alleen</strong> wanneer je het formulier bouwer wilt "
+"gebruiken of conflicten hebt met andere uitbreidingen, met de thema scripts "
+"of met de karakter vertaling."
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:206
+msgid "Form rendering"
+msgstr "Formulier opbouw"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:208
+msgid "Use classic predefined form"
+msgstr "Gebruik van klassiek vormgegeven formulier"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:210
+msgid "The <strong>Visual Form Builder</strong> is available in the"
+msgstr "De <strong>Formulier Bouwer</strong> is beschikbaar in het"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:210
+msgid "commercial versions"
+msgstr "commerciële versies"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:210
+msgid ""
+"To edit the form in this basic version you should manually edit the file"
+msgstr "In deze versie kunt u slechts handmatig het bestand bijwerken"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:215
+msgid "Script load method"
+msgstr "Methode van scripts inladen"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:217
+msgid "Classic (Recommended)"
+msgstr "Klassiek (aanbevolen)"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:218
+msgid "Direct"
+msgstr "Direct"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:220
+msgid ""
+"Change the script load method if the form doesn't appear in the public "
+"website"
+msgstr ""
+"Verander de methode waarop het script laadt wanneer het formulier niet "
+"zichtbaar is op de website"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:223
+msgid "Character encoding"
+msgstr "Karakter codering"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:225
+msgid "Keep current charset (Recommended)"
+msgstr "Gebruik huidige karakterset (Aanbevolen instelling)"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:229
+msgid ""
+"Update the charset if you are getting problems displaying special/non-latin "
+"characters. After updated you need to edit the special characters again"
+msgstr ""
+"Probeer een update van je karakterset wanneer je problemen hebt met de "
+"weergave van speciale karakters. Controleer en bewerk daarna het resultaat"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:232
+msgid "iCal timezone difference vs server time"
+msgstr "iCal tijdzone verschil versus tijd op webserver"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:238
+msgid ""
+"Update this, if needed, to match the desired timezone. The difference is "
+"calculated referred to the server time. Current server time is"
+msgstr ""
+"Dit kunt u aanpassen aan de gewenste tijdzone. Het verschil wordt berekend "
+"op basis van de server tijd. Actuele tijd op de server is nu"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:241
+msgid "iCal timeslot size in minutes"
+msgstr "iCal tijdslot in minuten"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:242
+msgid "minutes"
+msgstr "minuten"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:244
+msgid ""
+"Update this, if needed, to have a specific slot time in the exported iCal "
+"file"
+msgstr ""
+"Werk dit zo nodig bij om een specifieke slottijd in het geëxporteerde iCal-"
+"bestand te krijgen"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:247
+msgid "Exclude columns from CSV exported files"
+msgstr "Kolommen uitsluiten van de CSV uitvoer bestanden"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:250
+msgid "Names of the columns to be excluded, comma separated"
+msgstr "Namen van de uit te sluiten kolommen, komma gescheiden"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:269
+msgid "Customization Area"
+msgstr "Aanpassingen"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:271
+msgid ""
+"Use this area to add custom CSS styles or custom scripts. These styles and "
+"scripts will be keep safe even after updating the plugin"
+msgstr ""
+"Gebruik dit gebied voor het toevoegen van aangepaste CSS stijlen of scripts. "
+"Deze stijlen en scripts blijven bewaard ook na het bijwerken van de plugin"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:281
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: appointment-booking-calendar/inc/cpabc_appointments_admin_int_calendar_list.inc.php:281
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: appointment-booking-calendar/inc/cpabc_apps_on.inc.php:350
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: appointment-booking-calendar/inc/cpabc_apps_on.inc.php:379
+msgid "Please select the appointment time."
+msgstr "Selecteer de tijd van de afspraak."
+
+#: appointment-booking-calendar/inc/cpabc_publish_wizzard.inc.php:133
+#: appointment-booking-calendar/inc/cpabc_publish_wizzard.inc.php:197
+msgid "You can also publish the form in a post/page, use the dedicated icon"
+msgstr ""
+"Ook met het speciale icoon kunt u het formulier in een bericht of pagina "
+"invoegen"
+
+#: appointment-booking-calendar/inc/cpabc_publish_wizzard.inc.php:134
+#: appointment-booking-calendar/inc/cpabc_publish_wizzard.inc.php:198
+msgid ""
+"which has been added to your Upload/Insert Menu, just below the title of "
+"your Post/Page or under the \"+\" icon if using the Gutemberg editor."
+msgstr ""
+"deze is toegevoegd aan Upload/Invoegen Menu, juist onder de titel van je "
+"Bericht/Pagina of onder het \"+\" icoon wanneer je de Gutemberg editor "
+"gebruikt."
+
+#: appointment-booking-calendar/inc/cpabc_publish_wizzard.inc.php:195
+msgid "Note"
+msgstr "Opmerking"
+
+#: appointment-booking-calendar/inc/cpabc_scheduler.inc.php:13
+msgid "Calendar"
+msgstr "Kalender"
+
+#: appointment-booking-calendar/inc/cpabc_scheduler.inc.php:93
+msgid "Your phone number"
+msgstr "Uw telefoonnummer"
+
+#: appointment-booking-calendar/inc/cpabc_scheduler.inc.php:95
+msgid "Your name"
+msgstr "Uw naam"
+
+#: appointment-booking-calendar/inc/cpabc_scheduler.inc.php:97
+msgid "Your email"
+msgstr "Uw e-mailadres"
+
+#: appointment-booking-calendar/inc/cpabc_scheduler.inc.php:99
+msgid "Comments/Questions"
+msgstr "Vragen / opmerkingen"
+
+#: appointment-booking-calendar/inc/cpabc_scheduler.inc.php:102
+msgid "Please enter the security code:"
+msgstr "Vul de beveiligingscode in:"
+
+#: appointment-booking-calendar/inc/cpabc_scheduler.inc.php:105
+msgid "Security Code:"
+msgstr "Beveiligingscode (kleine letters):"
+
+msgid "Quantity"
+msgstr "Aantal"
+
+msgid "Selected date"
+msgstr "Geselecteerde datum"
+
+msgid "Select date and time"
+msgstr "Selecteer een datum en tijd"
+
+msgid "Please select date and time"
+msgstr "Selecteer een datum en tijd"
+
+msgid "Coupon code (optional)"
+msgstr "Coupon code (optioneel)"
+
+msgid "Service"
+msgstr "Service"
+
+msgid "Continue"
+msgstr "Doorgaan"
+
+msgid "Please enter a valid phone number"
+msgstr "Schrijf uw telefoonnummer"
+
+msgid "Please enter a valid email address"
+msgstr "Schrijf uw e-mailadres"
+
+msgid "Please write your name"
+msgstr "Schrijf uw naam"
+
+msgid "Please enter the captcha verification code"
+msgstr "Vul de captcha verificatie code"
+
+msgid ""
+"Please select at least %1 time-slots. Currently selected: %2 time-slots."
+msgstr "Selecteer ten minste %1 tijd. Daadwerkelijk geselecteerd: %2 tijd"
+
+msgid ""
+"Please select a maximum of %1 time-slots. Currently selected: %2 time-slots."
+msgstr "Selecteer maximaal %1 tijd. Daadwerkelijk geselecteerd: %2 tijd"
+
+msgid "Previous"
+msgstr "Vorig"
